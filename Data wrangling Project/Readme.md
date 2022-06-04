@@ -1,7 +1,7 @@
 
 
 
-Data Wrangling Project - ALNAFI Data Analyst
+Data Wrangling Project -  Data Analyst by Jamal Hussain Shah (4 June 2022)
 
 Introduction
 
