@@ -22,3 +22,6 @@ That said, several key differences help distinguish between the two.
 
 Legitimate bots are identified with the organization for which they scrape. For example, Googlebot identifies itself in its HTTP header as belonging to Google. Malicious bots, conversely, impersonate legitimate traffic by creating a false HTTP user agent.
 Legitimate bots abide a site’s robot.txt file, which lists those pages a bot is permitted to access and those it cannot. Malicious scrapers, on the other hand, crawl the website regardless of what the site operator has allowed.
+
+
+Jamal Hussain Shah 
