@@ -2,7 +2,6 @@
 
 This project is created by jamal hussains shah
 
-Website : www.Zameen.com
 
 Download csv file from this link  : https://opendata.com.pk/dataset/property-data-for-pakistan/resource/2cb1eeea-8dff-41b4-845f-28b8d75ca23b
 
