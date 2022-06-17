@@ -4,7 +4,7 @@
 
 
 
-####  I have done practice in jupyter notebook all excercise is written in this book in order to understand fully in data science.
+#### This is the Jupyter notebook version of the Python Data Science Handbook by Jake VanderPlas.The text is released under the CC-BY-NC-ND license, and code is released under the MIT license. If you find this content useful in order to expert data science. 
 
 This is created by Jamal Hussain Shah
 
