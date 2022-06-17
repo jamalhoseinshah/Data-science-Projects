@@ -4,7 +4,7 @@
 
 
 
-During education, I have done practice in jupyter notebook all excercise is written in this book in order to understand fully in data science. 
+### During education, I have done practice in jupyter notebook all excercise is written in this book in order to understand fully in data science. 
 
 1. IPython: Beyond Normal Python
 
