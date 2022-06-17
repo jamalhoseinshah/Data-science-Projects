@@ -8,3 +8,5 @@ Project 1
 
 * This is the Jupyter notebook version of the Python Data Science Handbook by Jake VanderPlas.The text is released under the CC-BY-NC-ND license, and code is released under the MIT license. If you find this content useful in order to expert data science.
 
+* Data Wrangling project - This dataset provides property listing with their prices, area and coordinates for Islamabad, Rawalpindi, Lahore, Faisalabad and Karachi
+
