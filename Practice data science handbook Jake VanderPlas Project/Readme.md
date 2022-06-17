@@ -7,16 +7,19 @@
 This is the Jupyter notebook version of the Python Data Science Handbook by Jake VanderPlas; the content is available on GitHub.* The text is released under the CC-BY-NC-ND license, and code is released under the MIT license. If you find this content useful, please consider supporting the work by buying the book!
 Table of Contents
 Preface
+
 1. IPython: Beyond Normal Python
 
-    Help and Documentation in IPython
-    Keyboard Shortcuts in the IPython Shell
-    IPython Magic Commands
+    
+  
     Input and Output History
+    
     IPython and Shell Commands
+    
     Errors and Debugging
+    
     Profiling and Timing Code
-    More IPython Resources
+    
 
 2. Introduction to NumPy
 
