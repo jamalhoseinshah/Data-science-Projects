@@ -12,13 +12,10 @@ Preface
 
     
   
-    Input and Output History
-    
-    IPython and Shell Commands
-    
-    Errors and Debugging
-    
-    Profiling and Timing Code
+    * Input and Output History
+    * IPython and Shell Commands
+    * Errors and Debugging
+    * Profiling and Timing Code
     
 
 2. Introduction to NumPy
